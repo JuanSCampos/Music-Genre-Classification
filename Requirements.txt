@@ -1,6 +1,8 @@
 streamlit
-numpy
 librosa
-tensorflow
+numpy
+matplotlib
 scikit-learn
 pandas
+keras
+tensorflow
